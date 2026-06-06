@@ -1,0 +1,51 @@
+[
+  {
+    "id": "1",
+    "date": "06-06-2026",
+    "category": "Food",
+    "description": "Daal makhni naam",
+    "amount": 200.0
+  },
+  {
+    "id": "2",
+    "date": "06-06-2026",
+    "category": "Transport",
+    "description": "Metro",
+    "amount": 52.0
+  },
+  {
+    "id": "3",
+    "date": "06-06-2026",
+    "category": "Shopping",
+    "description": "Bought gym clothes",
+    "amount": 3800.0
+  },
+  {
+    "id": "4",
+    "date": "06-06-2026",
+    "category": "Entertainment",
+    "description": "movie",
+    "amount": 500.0
+  },
+  {
+    "id": "6",
+    "date": "06-06-2026",
+    "category": "Health",
+    "description": "went to a doctor",
+    "amount": 1500.0
+  },
+  {
+    "id": "7",
+    "date": "06-06-2026",
+    "category": "Education",
+    "description": "Summer training camp 4500",
+    "amount": 4500.0
+  },
+  {
+    "id": "8",
+    "date": "06-06-2026",
+    "category": "Other",
+    "description": "sleeping",
+    "amount": 200.0
+  }
+]
